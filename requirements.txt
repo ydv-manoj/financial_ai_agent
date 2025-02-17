@@ -1,0 +1,15 @@
+groq
+phidata
+yfinance
+python-dotenv
+textblob
+openbb
+uvicorn
+yfinance
+fastapi
+requests
+pandas
+newspaper4k
+duckduckgo_search
+lxml_html_clean
+textblob
